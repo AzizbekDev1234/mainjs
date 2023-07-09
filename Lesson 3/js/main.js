@@ -472,3 +472,14 @@
 // In this exercise, there is no type error, but the output may not be what you expect. Can you modify the code to fix the issue and get the desired output?
 //  Remember, type errors occur when operations are performed on incompatible data types. Analyze the code, identify the problematic areas, and make the necessary adjustments to fix the errors.
 //  Feel free to ask for further c
+
+
+
+
+// ! # Day 3
+// 0. Template literal 
+// 1. Truthy and Falthy
+// 2. Conditional operator "if else"
+// 3. logical operators (&& and || or )
+// 4. Ternary operator 
+// 5. "switch" statement

@@ -107,7 +107,7 @@ html -->
 
 <!-- ! Template literal -->
 
-Shablon satrlari sifatida ham tanilgan `Shablon harflari` ECMAScript 6 (ES6) da joriy qilingan xususiyat boʻlib, JavaScript-da yanada moslashuvchan va oʻqilishi mumkin boʻlgan satr formatlash imkonini beradi. Ular bitta yoki qoʻsh tirnoq oʻrniga teskari belgilardan (`) foydalanadi va oʻrnatilgan ifodalar va koʻp qatorli satrlarga ruxsat beradi.
+Shablon satrlari sifatida ham tanilgan `Shablon harflari` ECMAScript 6 (ES6) da joriy qilingan xuusiyat boʻlib, JavaScript-da yanada moslashuvchan va oʻqilishi mumkin boʻlgan satr formatlash imkonini beradi. Ular bitta yoki qoʻsh tirnoq oʻrniga teskari belgilardan (`) foydalanadi va oʻrnatilgan ifodalar va koʻp qatorli satrlarga ruxsat beradi.
   Shablon harflaridan qanday foydalanish mumkinligiga misol:
 const name = "Jon";
 doimiy yosh = 25;
